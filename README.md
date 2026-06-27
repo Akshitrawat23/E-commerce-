@@ -12,6 +12,10 @@ This is a simple e-commerce website built using HTML and CSS.
 - HTML
 - CSS
 
+## 📷 screenshot
+
+
+
 ## ▶️ How to Run
 1. Download the project
 2. Open index.html in browser
